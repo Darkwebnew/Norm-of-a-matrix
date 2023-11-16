@@ -1,4 +1,5 @@
-# Norm of a matrix
+# EX 07 Norm of a matrix
+## Date: 03.10.2023
 ## Aim
 To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
 ## Equipment’s required:
